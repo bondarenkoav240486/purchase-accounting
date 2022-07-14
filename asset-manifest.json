@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/purchase-accounting/static/css/main.79014c01.css",
+    "main.js": "/purchase-accounting/static/js/main.1a87aee8.js",
+    "index.html": "/purchase-accounting/index.html",
+    "main.79014c01.css.map": "/purchase-accounting/static/css/main.79014c01.css.map",
+    "main.1a87aee8.js.map": "/purchase-accounting/static/js/main.1a87aee8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79014c01.css",
+    "static/js/main.1a87aee8.js"
+  ]
+}
